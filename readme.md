@@ -2,7 +2,7 @@
 Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar minha trajetória, projetos e habilidades técnicas como Desenvolvedor Front-end. O site foi construído com foco em performance, responsividade e uma narrativa visual que conecta minha experiência no varejo com o desenvolvimento de software.
 
 🔗 Demonstração
-Acesse o site ao vivo: [Link para o seu domínio ou GitHub Pages]
+Acesse o site ao vivo: [(https://diogo-abraga.github.io/portf-lio-/)](https://diogo-abraga.github.io/portf-lio-/)
 
 💻 Sobre o Projeto
 O projeto nasceu da necessidade de criar uma identidade única para a minha transição de carreira. Saindo do setor de vendas e promoção para a tecnologia, utilizei este site para aplicar conceitos avançados de manipulação de DOM, estilização moderna e componentes reutilizáveis.
